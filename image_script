@@ -1,0 +1,74 @@
+save
+
+blur mosaic
+blur
+
+sharpen mosaic
+sharpen
+
+grayscale mosaic
+grayscale
+
+sepia mosaic
+sepia
+
+dither mosaic
+dither
+
+mosaic
+mosaic 1000
+
+
+load brisbane city.png
+blur
+blur
+save brisbane city-blurred2.png
+
+load brisbane city.png
+sharpen
+save brisbane city-sharpen.png
+
+load brisbane city.png
+grayscale
+save brisbane city-grayscale.png
+
+load brisbane city.png
+sepia
+save brisbane city-sepia.png
+
+load brisbane city.png
+dither
+save brisbane city-dither.png
+
+load brisbane city.png
+blur
+grayscale
+save brisbane city-blur-grayscale.png
+
+load brisbane city.png
+sharpen
+sepia
+save brisbane city-sharpen-sepia.png
+
+load brisbane city.png
+dither
+blur
+save brisbane city-dither-blur.png
+
+load brisbane city.png
+dither
+sepia
+save brisbane city-dither-sepia.png
+
+dither 12345
+
+mosaic 1000
+
+load
+
+write
+
+load new york city.png
+
+save *<brisbane city.png>
+
