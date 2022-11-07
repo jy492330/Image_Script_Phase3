@@ -1,7 +1,7 @@
 
 
 # Image View (CS5004 Mini-Project 9)
-3rd phase of an MVC application created in Java
+3rd phase of the MVC application in Java
 
 ## Table of Contents 
 
